@@ -1,0 +1,1 @@
+{"alertname: CheckoutErrorRate\nservice: checkout\nseverity: critical\nsummary: Payment requests are failing in production\ndescription: 5xx rate exceeded the declared threshold for 10 minutes":{"choice":"incident","probability":0.97}}
